@@ -1,6 +1,5 @@
 package lab4.model.dao;
 
-import lab4.DatabaseConnector;
 import lab4.model.entity.Location;
 
 import java.sql.PreparedStatement;
